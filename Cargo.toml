@@ -1,0 +1,9 @@
+[package]
+name = "wuxia_scraper"
+version = "0.1.0"
+authors = ["Johnathan Lee <jfl747076@gmail.com>"]
+
+[dependencies]
+reqwest = "0.8.6"
+scraper = {git = "https://github.com/programble/scraper"}
+
